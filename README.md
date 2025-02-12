@@ -96,7 +96,7 @@ VITE_FIREBASE_APP_ID=your_app_id
 VITE_TMDB_AUTH_TOKEN=your_tmdb_auth_token
 ```
 
-## 🌍 Project in Line
+## 🌍 Project Online
 
 🔗 [See the project here](https://netflix-clone-juan-amadors-projects.vercel.app/)
 
