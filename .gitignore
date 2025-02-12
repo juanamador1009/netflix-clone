@@ -1,0 +1,45 @@
+# 🚀 Logs y depuración
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ⚙️ Dependencias de Node.js
+node_modules/
+
+# ⚛️ Archivos generados por Vite
+dist/
+dist-ssr/
+.vite/
+
+# 🔐 Variables de entorno (seguridad)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# 🌎 Configuración de Git y SSH
+*.pem
+*.key
+*.crt
+*.cert
+
+# 🔧 Archivos de configuración de IDEs y sistemas operativos
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 🚀 Archivos de construcción que no deben subirse
+*.cache
+.eslintcache
