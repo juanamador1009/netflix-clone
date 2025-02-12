@@ -98,7 +98,7 @@ VITE_TMDB_AUTH_TOKEN=your_tmdb_auth_token
 
 ## 🌍 Project in Line
 
-🔗 [See the project here](https://my-project.vercel.app/)
+🔗 [See the project here](https://netflix-clone-juan-amadors-projects.vercel.app/)
 
 ## 👨‍💻 Author
 
